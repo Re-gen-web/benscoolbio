@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Welcome to my blog"
-date:   2016-08-05 20:20:56 -0400
+date:   2024-05-09 20:20:56 -0400
 categories: writing
 ---
 Welcome to my blog. I just made this to goof around and talk about shit. totally not inspired by [garry.net]
