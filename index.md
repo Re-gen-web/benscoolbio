@@ -5,6 +5,6 @@ title: Benscoolblog
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+Welcome to my website. I hope you like it. go check out my blog, or learn about me.
 
 
