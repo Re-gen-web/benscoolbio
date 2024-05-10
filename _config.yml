@@ -1,14 +1,14 @@
 
 # SEO
-title: Swiss Jekyll Theme
+title: Benscoolsite
 description: A bold typographic theme inspired by Swiss design.
 
 # social
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
-theme_color: black
+social_username: BenjaminY95849
+github_repo: benscoolbio # the GitHub repo name for your project
+github_username: Re-gen-web
+theme_color: magenta
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
